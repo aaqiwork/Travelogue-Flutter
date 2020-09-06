@@ -1,2 +1,5 @@
-# Travelogue-Flutter
-A flutter based app which helps travellers in selecting the destination and hotels
+# Apps From Scratch: Flutter Travel UI
+
+[YouTube: Flutter Travel UI Tutorial | Apps From Scratch](https://youtu.be/CSa6Ocyog4U)
+
+
