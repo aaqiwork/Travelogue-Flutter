@@ -1,5 +1,4 @@
-# Apps From Scratch: Flutter Travel UI
+# Travelogue Flutter App
 
-[YouTube: Flutter Travel UI Tutorial | Apps From Scratch](https://youtu.be/CSa6Ocyog4U)
-
-
+## Screenshots
+<img src="/ss1.png" width="300"/> <img src="/ss2.png" width="300"/> <img src="/ss3.png" width="300"/> <img src="/ss4.png" width="300"/> 
